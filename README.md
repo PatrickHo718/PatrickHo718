@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Data Science Student studying at the University of Virginia. 
+I am a Data Science Student studying at the University of Virginia. I am in the class of 2027. My email is bqu3tr@virginia.edu. 
 
 <!--
 **PatrickHo718/PatrickHo718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
