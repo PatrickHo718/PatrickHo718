@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a Data Science Student studying at the University of Virginia. 
+
 <!--
 **PatrickHo718/PatrickHo718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
