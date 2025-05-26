@@ -3,9 +3,9 @@
 🎓 I'm a Data Science student at the University of Virginia (Class of 2027) and Marketin Analytics Intern at MAXHUB.
 
 ### 📌 About Me
-- 📊 Currently studying machine learning, data visualization, and cloud platforms (AWS)
-- 📈 Working on projects involving sports analytics, marketing data, and business intelligence
-- 🤝 Open to collaborating on data-driven research or applied analytics work
+- Currently studying machine learning, data visualization, and cloud platforms (AWS)
+- Working on projects involving sports analytics, marketing data, and business intelligence
+- Open to collaborating on data-driven research or applied analytics work
 
 ### 🛠️ Tech Stack
 Python · R · SQL · Tableau · Excel · Scikit-learn · Pandas · Matplotlib · ggplot · AWS
