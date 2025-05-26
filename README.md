@@ -1,5 +1,3 @@
-<img align="center" src="https://media.macphun.com/img/uploads/macphun/blog/3192/steve_roe_2.jpg" style="width:100%;" />
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Patrick%20📊&fontSize=40&fontColor=ffffff" />
 </p>
