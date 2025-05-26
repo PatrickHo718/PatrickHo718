@@ -1,4 +1,4 @@
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Patrick%20👨‍💻&fontSize=40&fontColor=ffffff" />
+<img align="center" src="https://capsule-render.vercel.app/api?type=rounded&color=0:1F1C2C,100:928DAB&height=250&section=header&text=Hi%20I'm%20Patrick%20👨‍💻&fontSize=45&fontColor=ffffff" />
 
 <p align="center">
   Data Science @ UVA | Class of 2027 | Skilled in ML, Analytics & Data Visualization 📊
@@ -46,5 +46,3 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/patrick-ho-932511321/?trk=opento_sprofile_topcard) 
 
 ---
-
-<sub>✨ Inspired by awesome GitHub profiles | Generated with ❤️ by ChatGPT</sub>
