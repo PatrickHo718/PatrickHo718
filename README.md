@@ -8,7 +8,7 @@
 - Open to collaborating on data-driven research or applied analytics work
 
 ### 🛠️ Tech Stack
-Python · R · SQL · Tableau · Excel · Scikit-learn · Pandas · Matplotlib · ggplot · AWS
+Python · R · SQL · Tableau · Excel · Scikit-learn · Pandas · Matplotlib · ggplot · OpenCV ·AWS
 
 ### 📫 Get in Touch
 - Email: [bqu3tr@virginia.edu](mailto:bqu3tr@virginia.edu)
