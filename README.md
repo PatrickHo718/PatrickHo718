@@ -16,8 +16,6 @@ Python · R · SQL · Tableau · Excel · Scikit-learn · Pandas · Matplotlib �
 
 ---
 
-> 🚀 *"Data is only as powerful as the stories you tell with it."*
-
 <!--
 **PatrickHo718/PatrickHo718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
