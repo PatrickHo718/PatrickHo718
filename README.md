@@ -1,7 +1,7 @@
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Patrick%20👨‍💻&fontSize=40&fontColor=ffffff" />
 
 <p align="center">
-  Data Science @ UVA | Class of 2027 | Studying in ML, Analytics & Data Visualization 📊
+  Data Science @ UVA | Class of 2027 | Skilled in ML, Analytics & Data Visualization 📊
 </p>
 
 ---
