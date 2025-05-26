@@ -12,7 +12,7 @@ Python · R · SQL · Tableau · Excel · Scikit-learn · Pandas · Matplotlib �
 
 ### 📫 Get in Touch
 - Email: [bqu3tr@virginia.edu](mailto:bqu3tr@virginia.edu)
-- LinkedIn: [linkedin.com/in/patrick-ho](https://linkedin.com/in/patrick-ho) *(optional: add if available)*
+- LinkedIn: [linkedin.com/in/patrick-ho](https://www.linkedin.com/in/patrick-ho-932511321/?trk=opento_sprofile_topcard) 
 
 ---
 
