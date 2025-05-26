@@ -1,6 +1,6 @@
 ## 👋 Hi, my name is Patrick Ho!
 
-🎓 I'm a Data Science student at the University of Virginia (Class of 2027) and intern at MAXHUB.
+🎓 I'm a Data Science student at the University of Virginia (Class of 2027) and Marketin Analytics Intern at MAXHUB.
 
 ### 📌 About Me
 - 📊 Currently studying machine learning, data visualization, and cloud platforms (AWS)
