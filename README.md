@@ -31,7 +31,7 @@
 
 - 🏀 [**NBA Player Clustering for the Wizards**](https://github.com/PatrickHo718/Moneyball-NBA-Edition-)  
   Selected undervalued players using K-Means & performance-salary analysis
-- 🎵 [**DIY Music Player**](https://github.com/PatrickHo718/DIY-Spotify)  
+- 🎵 [**DIY Music Player**](https://github.com/PatrickHo718/dp1-diy-spotify)  
   A web-based music player using AWS, FastAPI, and MySQL to manage and serve song metadata.
 ---
 
