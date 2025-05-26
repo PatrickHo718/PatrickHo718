@@ -1,9 +1,12 @@
-<img align="center" src="https://capsule-render.vercel.app/api?type=rounded&color=0:1F1C2C,100:928DAB&height=250&section=header&text=Hi%20I'm%20Patrick%20👨‍💻&fontSize=45&fontColor=ffffff" />
+<img align="center" src="https://media.macphun.com/img/uploads/macphun/blog/3192/steve_roe_2.jpg" style="width:100%;" />
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Patrick%20📊&fontSize=40&fontColor=ffffff" />
+</p>
 
 <p align="center">
   Data Science @ UVA | Class of 2027 | Skilled in ML, Analytics & Data Visualization 📊
 </p>
-
 ---
 
 ### 💫 About Me
