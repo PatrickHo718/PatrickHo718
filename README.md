@@ -1,18 +1,23 @@
-## Hi there 👋
+## 👋 Hi, I'm Patrick Ho!
 
-I am a Data Science Student studying at the University of Virginia. I am in the class of 2027. My email is bqu3tr@virginia.edu. 
+🎓 I'm a Data Science student at the University of Virginia (Class of 2027), passionate about turning data into impactful insights.
+
+### 📌 About Me
+- 📊 Currently exploring machine learning, data visualization, and cloud platforms (AWS)
+- 📈 Working on projects involving sports analytics, marketing data, and business intelligence
+- 🤝 Always open to collaborating on data-driven research or applied analytics work
+
+### 🛠️ Tech Stack
+Python · R · SQL · Tableau · Excel · Scikit-learn · Pandas · Matplotlib · AWS
+
+### 📫 Get in Touch
+- Email: [bqu3tr@virginia.edu](mailto:bqu3tr@virginia.edu)
+- LinkedIn: [linkedin.com/in/patrick-ho](https://linkedin.com/in/patrick-ho) *(optional: add if available)*
+
+---
+
+> 🚀 *"Data is only as powerful as the stories you tell with it."*
 
 <!--
 **PatrickHo718/PatrickHo718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
