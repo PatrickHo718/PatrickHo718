@@ -11,7 +11,7 @@
 
 - Currently building: Sports Analytics, Marketing Forecast Models
 - Learning: AWS, Prophet, XGBoost, Tableau
-- Interests: Business Analytics, ML Applications, Event-Driven Strategy
+- Interests: Business Analytics, ML Applications, Sports & Media
 - Fun fact: I’ve lived in Malaysia, Taiwan, Hong Kong, and the U.S.
 
 ---
