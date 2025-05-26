@@ -11,7 +11,7 @@
 - Currently building: Sports Analytics Dashboards, Marketing Forecast Models
 - Learning: AWS, Prophet, XGBoost, Tableau
 - Interests: Business Analytics, ML Applications, Event-Driven Strategy
-- Fun fact: I’ve lived in Malaysia 🇲🇾, Taiwan 🇹🇼, Hong Kong 🇭🇰, and the U.S. 🇺🇸
+- Fun fact: I’ve lived in Malaysia, Taiwan, Hong Kong, and the U.S.
 
 ---
 
@@ -28,7 +28,7 @@
 
 ### 🧠 Featured Projects
 
-- 🏀 [**NBA Player Clustering for the Wizards**](#)  
+- 🏀 [**NBA Player Clustering for the Wizards**](https://github.com/PatrickHo718/Moneyball-NBA-Edition-)  
   Selected undervalued players using K-Means & performance-salary analysis
 ---
 
@@ -44,8 +44,7 @@
 ### 📫 Let’s Connect
 
 - 📬 Email: bqu3tr@virginia.edu  
-- 💼 [LinkedIn](https://linkedin.com/in/your-link-here) *(update with your actual URL)*  
-- 🌐 [Portfolio](https://your-portfolio-link.com) *(optional)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/patrick-ho-932511321/?trk=opento_sprofile_topcard) 
 
 ---
 
