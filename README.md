@@ -8,7 +8,7 @@
 
 ### 💫 About Me
 
-- Currently building: Sports Analytics Dashboards, Marketing Forecast Models
+- Currently building: Sports Analytics, Marketing Forecast Models
 - Learning: AWS, Prophet, XGBoost, Tableau
 - Interests: Business Analytics, ML Applications, Event-Driven Strategy
 - Fun fact: I’ve lived in Malaysia, Taiwan, Hong Kong, and the U.S.
