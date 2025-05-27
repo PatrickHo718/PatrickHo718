@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Data Science @ UVA | Class of 2027 | Skilled in ML, Analytics & Data Visualization 📊
+  Data Science @ UVA | Class of 2027 | ML, Analytics & Data Visualization 📊
 </p>
 
 ### 💫 About Me
