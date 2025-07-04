@@ -32,8 +32,8 @@
   Selected undervalued players using K-Means & performance-salary analysis.
 - 🎵 [**DIY Music Player**](https://github.com/PatrickHo718/dp1-diy-spotify)  
   A web-based music player using AWS, FastAPI, and MySQL to manage and serve song metadata.
-- 🏥 [**Medication Adherence Prediction**](https://github.com/PatrickHo718/Medication-Adherence)  
-  Random Forest ML model to predict medication adherence using patient data for targeted interventions.
+- 🏥 [**Risk Assessment: Kiva Micro-Loans Prediction**](https://github.com/PatrickHo718/kiva_crowdfunding)  
+  Series of notebooks to predict income group and days to fund for micro-loans borrowers using the RandomForest and XGBoost.
 ---
 
 ### 📈 GitHub Stats
